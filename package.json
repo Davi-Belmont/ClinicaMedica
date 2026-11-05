@@ -1,0 +1,9 @@
+{
+  "name": "clinica-medica",
+  "private": true,
+  "workspaces": [
+    "shared",
+    "api",
+    "frontend"
+  ]
+}
